@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Reactjs, TailwindCSS**
 
+- 👨‍💻 All of my projects are available at **https://github.com/Srilatha-kotni?tab=repositories**
+
 - 📫 How to reach me **kotnisrilatha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
